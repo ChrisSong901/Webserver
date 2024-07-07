@@ -1,0 +1,93 @@
+2024-04-06 16:32:50.541221 [info] : ========== Server init ==========
+2024-04-06 16:32:50.541233 [info] : Port:1316, OpenLinger: false
+2024-04-06 16:32:50.541237 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-04-06 16:32:50.541240 [info] : LogSys level: 1
+2024-04-06 16:32:50.541243 [info] : srcDir: /home/nowcoder/WebServer-master/resources/
+2024-04-06 16:32:50.541246 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-04-06 16:32:50.541248 [info] : ========== Server start ==========
+2024-04-06 16:32:53.015589 [info] : Client[18](192.168.124.1:23324) in, userCount:1
+2024-04-06 16:32:53.015668 [info] : Client[18] in!
+2024-04-06 16:32:53.078372 [info] : Client[19](192.168.124.1:23580) in, userCount:2
+2024-04-06 16:32:53.078459 [info] : Client[19] in!
+2024-04-06 16:32:53.112817 [info] : Client[20](192.168.124.1:23836) in, userCount:3
+2024-04-06 16:32:53.112897 [info] : Client[20] in!
+2024-04-06 16:32:53.114749 [info] : Client[21](192.168.124.1:24092) in, userCount:4
+2024-04-06 16:32:53.114813 [info] : Client[21] in!
+2024-04-06 16:32:53.117118 [info] : Client[23](192.168.124.1:24348) in, userCount:5
+2024-04-06 16:32:53.117184 [info] : Client[23] in!
+2024-04-06 16:33:23.107536 [info] : Client[18] quit!
+2024-04-06 16:33:23.108881 [info] : Client[18](192.168.124.1:23324) quit, UserCount:4
+2024-04-06 16:33:23.203003 [info] : Client[18](192.168.124.1:29980) in, userCount:5
+2024-04-06 16:33:23.203102 [info] : Client[18] in!
+2024-04-06 16:33:23.203134 [info] : Client[22](192.168.124.1:30236) in, userCount:6
+2024-04-06 16:33:23.203146 [info] : Client[22] in!
+2024-04-06 16:33:31.198203 [info] : Client[19] quit!
+2024-04-06 16:33:31.199481 [info] : Client[19](192.168.124.1:23580) quit, UserCount:5
+2024-04-06 16:34:29.831413 [info] : Client[19] quit!
+2024-04-06 16:34:35.499679 [info] : Client[20] quit!
+2024-04-06 16:34:35.499903 [info] : Client[20](192.168.124.1:23836) quit, UserCount:4
+2024-04-06 16:34:35.499963 [info] : Client[18] quit!
+2024-04-06 16:34:35.500109 [info] : Client[18](192.168.124.1:29980) quit, UserCount:3
+2024-04-06 16:34:35.500187 [info] : Client[21] quit!
+2024-04-06 16:34:35.500340 [info] : Client[21](192.168.124.1:24092) quit, UserCount:2
+2024-04-06 16:34:35.500390 [info] : Client[22] quit!
+2024-04-06 16:34:35.500605 [info] : Client[22](192.168.124.1:30236) quit, UserCount:1
+2024-04-06 16:34:35.500721 [info] : Client[23] quit!
+2024-04-06 16:50:38.694605 [info] : ========== Server init ==========
+2024-04-06 16:50:38.694622 [info] : Port:1316, OpenLinger: false
+2024-04-06 16:50:38.694626 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-04-06 16:50:38.694629 [info] : LogSys level: 1
+2024-04-06 16:50:38.694632 [info] : srcDir: /home/nowcoder/WebServer-master/resources/
+2024-04-06 16:50:38.694635 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-04-06 16:50:38.694638 [info] : ========== Server start ==========
+2024-04-06 16:50:41.395827 [info] : Client[18](192.168.124.1:30261) in, userCount:1
+2024-04-06 16:50:41.396077 [info] : Client[18] in!
+2024-04-06 16:50:41.484905 [info] : Client[19](192.168.124.1:30517) in, userCount:2
+2024-04-06 16:50:41.484973 [info] : Client[19] in!
+2024-04-06 16:50:41.484997 [info] : Client[20](192.168.124.1:30773) in, userCount:3
+2024-04-06 16:50:41.485004 [info] : Client[20] in!
+2024-04-06 16:50:41.485865 [info] : Client[21](192.168.124.1:31029) in, userCount:4
+2024-04-06 16:50:41.485907 [info] : Client[21] in!
+2024-04-06 21:37:23.468327 [info] : ========== Server init ==========
+2024-04-06 21:37:23.468335 [info] : Port:1316, OpenLinger: false
+2024-04-06 21:37:23.468339 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-04-06 21:37:23.468342 [info] : LogSys level: 1
+2024-04-06 21:37:23.468345 [info] : srcDir: 0‚ñU
+2024-04-06 21:37:23.468348 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-04-06 21:37:23.468350 [info] : ========== Server start ==========
+2024-04-06 21:37:26.918236 [info] : Client[18](192.168.124.1:57099) in, userCount:1
+2024-04-06 21:37:26.918329 [info] : Client[18] in!
+2024-04-06 21:38:20.735826 [info] : ========== Server init ==========
+2024-04-06 21:38:20.735833 [info] : Port:1316, OpenLinger: false
+2024-04-06 21:38:20.735836 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-04-06 21:38:20.735839 [info] : LogSys level: 1
+2024-04-06 21:38:20.735842 [info] : srcDir: Ð¦%ØU
+2024-04-06 21:38:20.735845 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-04-06 21:38:20.735848 [info] : ========== Server start ==========
+2024-04-06 21:38:23.315972 [info] : Client[18](192.168.124.1:63243) in, userCount:1
+2024-04-06 21:38:23.316095 [info] : Client[18] in!
+2024-04-06 21:38:23.390884 [info] : Client[19](192.168.124.1:63499) in, userCount:2
+2024-04-06 21:38:23.390975 [info] : Client[19] in!
+2024-04-06 21:38:23.428696 [info] : Client[20](192.168.124.1:63755) in, userCount:3
+2024-04-06 21:38:23.429147 [info] : Client[20] in!
+2024-04-06 21:38:25.724165 [info] : Client[18] quit!
+2024-04-06 21:38:25.724870 [info] : Client[18](192.168.124.1:63243) quit, UserCount:2
+2024-04-06 21:38:25.810115 [info] : Client[18](192.168.124.1:64523) in, userCount:3
+2024-04-06 21:38:25.810668 [info] : Client[18] in!
+2024-04-06 21:38:25.810743 [info] : Client[21](192.168.124.1:64779) in, userCount:4
+2024-04-06 21:38:25.810761 [info] : Client[21] in!
+2024-04-06 21:38:25.811938 [info] : Client[22](192.168.124.1:65035) in, userCount:5
+2024-04-06 21:38:25.811993 [info] : Client[22] in!
+2024-04-06 21:38:33.077351 [info] : Client[23](192.168.124.1:524) in, userCount:6
+2024-04-06 21:38:33.077415 [info] : Client[23] in!
+2024-04-06 21:39:33.112705 [info] : Client[23] quit!
+2024-04-06 21:39:33.112886 [info] : Client[23](192.168.124.1:524) quit, UserCount:5
+2024-04-06 21:39:34.447822 [info] : Client[20] quit!
+2024-04-06 21:39:34.447976 [info] : Client[20](192.168.124.1:63755) quit, UserCount:4
+2024-04-06 21:39:34.447993 [info] : Client[22] quit!
+2024-04-06 21:39:34.448046 [info] : Client[22](192.168.124.1:65035) quit, UserCount:3
+2024-04-06 21:39:34.448061 [info] : Client[21] quit!
+2024-04-06 21:39:34.448098 [info] : Client[21](192.168.124.1:64779) quit, UserCount:2
+2024-04-06 21:39:34.449905 [info] : Client[18] quit!
+2024-04-06 21:39:34.450142 [info] : Client[18](192.168.124.1:64523) quit, UserCount:1
+2024-04-06 21:39:36.944824 [info] : Client[19] quit!
