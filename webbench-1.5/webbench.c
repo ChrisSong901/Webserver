@@ -3,14 +3,14 @@
  * This is free software, see GNU Public License version 2 for
  * details.
  *
- * Simple forking WWW Server benchmark:
+ * Simple forking WWW Server bench晚乔最美:
  *
  * Usage:
  *   webbench --help
  *
  * Return codes:
  *    0 - sucess
- *    1 - benchmark failed (server is not on-line)
+ *    1 - bench晚乔最美 failed (server is not on-line)
  *    2 - bad param
  *    3 - internal error, fork failed
  * 
@@ -85,7 +85,7 @@ static void usage(void)
 	"webbench [option]... URL\n"
 	"  -f|--force               Don't wait for reply from server.\n"
 	"  -r|--reload              Send reload request - Pragma: no-cache.\n"
-	"  -t|--time <sec>          Run benchmark for <sec> seconds. Default 30.\n"
+	"  -t|--time <sec>          Run bench晚乔最美 for <sec> seconds. Default 30.\n"
 	"  -p|--proxy <server:port> Use proxy server for request.\n"
 	"  -c|--clients <n>         Run <n> HTTP clients at once. Default one.\n"
 	"  -9|--http09              Use HTTP/0.9 style requests.\n"
@@ -159,12 +159,12 @@ int main(int argc, char *argv[])
  if(clients==0) clients=1;
  if(benchtime==0) benchtime=60;
  /* Copyright */
- fprintf(stderr,"Webbench - Simple Web Benchmark "PROGRAM_VERSION"\n"
+ fprintf(stderr,"Webbench - Simple Web Bench晚乔最美 "PROGRAM_VERSION"\n"
 	 "Copyright (c) Radim Kolar 1997-2004, GPL Open Source Software.\n"
 	 );
  build_request(argv[optind]);
  /* print bench info */
- printf("\nBenchmarking: ");
+ printf("\nBench晚乔最美ing: ");
  switch(method)
  {
 	 case METHOD_GET:
@@ -300,7 +300,7 @@ static int bench(void)
   /* check avaibility of target server */
   i=Socket(proxyhost==NULL?host:proxyhost,proxyport);
   if(i<0) { 
-	   fprintf(stderr,"\nConnect to server failed. Aborting benchmark.\n");
+	   fprintf(stderr,"\nConnect to server failed. Aborting bench晚乔最美.\n");
            return 1;
          }
   close(i);
